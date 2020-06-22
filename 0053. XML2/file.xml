@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AUT>
+  <Student id="1">
+    <name>Sajad</name>
+    <family>Dadgar</family>
+  </Student>
+  <Student id="2">
+    <name>Mohamad</name>
+    <family>Shirzadi</family>
+  </Student>
+  <Student id="3">
+    <name>Saeid</name>
+    <family>Ghiasi</family>
+  </Student>
+  <Student id="4">
+    <name>Hossein</name>
+    <family>Roodbarani</family>
+  </Student>
+</AUT>
+

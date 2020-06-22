@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="0048. JSON ft Web Service SERVER:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/0048__JSON_ft_Web_Service_SERVER_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="0048. JSON ft Web Service SERVER/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="0048. JSON ft Web Service SERVER" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

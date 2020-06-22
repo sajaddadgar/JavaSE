@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sharif>
+  <student id="1">
+    <name>ali</name>
+    <family>ahmadi</family>
+  </student>
+  <student id="2">
+    <name>ali</name>
+    <family>ahmadi</family>
+  </student>
+</sharif>
+
